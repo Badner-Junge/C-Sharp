@@ -1,0 +1,5 @@
+/Users/fabian/VirtualBox VMs/Gemeinsamer-Ordner/CSharp-alt-master/CSharp-FirstTry/bin/Debug/CSharp-FirstTry.exe
+/Users/fabian/VirtualBox VMs/Gemeinsamer-Ordner/CSharp-alt-master/CSharp-FirstTry/bin/Debug/CSharp-FirstTry.pdb
+/Users/fabian/VirtualBox VMs/Gemeinsamer-Ordner/CSharp-alt-master/CSharp-FirstTry/obj/Debug/Zahlenraten.csproj.CoreCompileInputs.cache
+/Users/fabian/VirtualBox VMs/Gemeinsamer-Ordner/CSharp-alt-master/CSharp-FirstTry/obj/Debug/CSharp-FirstTry.exe
+/Users/fabian/VirtualBox VMs/Gemeinsamer-Ordner/CSharp-alt-master/CSharp-FirstTry/obj/Debug/CSharp-FirstTry.pdb
