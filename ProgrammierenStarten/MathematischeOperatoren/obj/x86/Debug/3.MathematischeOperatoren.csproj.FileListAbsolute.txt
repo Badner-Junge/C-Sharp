@@ -5,6 +5,7 @@
 /home/fabian/Projects/ProgrammierenStarten/MathematischeOperatoren/obj/x86/Debug/MathematischeOperatoren.pdb
 /Users/fabian/Projects/C-Sharp/ProgrammierenStarten/MathematischeOperatoren/bin/Debug/MathematischeOperatoren.exe
 /Users/fabian/Projects/C-Sharp/ProgrammierenStarten/MathematischeOperatoren/bin/Debug/MathematischeOperatoren.pdb
+/Users/fabian/Projects/C-Sharp/ProgrammierenStarten/MathematischeOperatoren/obj/x86/Debug/3.MathematischeOperatoren.csprojAssemblyReference.cache
 /Users/fabian/Projects/C-Sharp/ProgrammierenStarten/MathematischeOperatoren/obj/x86/Debug/3.MathematischeOperatoren.csproj.CoreCompileInputs.cache
 /Users/fabian/Projects/C-Sharp/ProgrammierenStarten/MathematischeOperatoren/obj/x86/Debug/MathematischeOperatoren.exe
 /Users/fabian/Projects/C-Sharp/ProgrammierenStarten/MathematischeOperatoren/obj/x86/Debug/MathematischeOperatoren.pdb
