@@ -3,17 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.808.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgrammierenStarten", "ProgrammierenStarten", "{B7F53DF9-029D-4C82-B6B7-59DB89D6E8F7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgrammierenStarten", "ProgrammierenStarten", "{CD9939EF-A377-4A40-8577-1874C641EB1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HalloWelt", "..\..\VirtualBox VMs\Gemeinsamer-Ordner\CSharp-alt-master\ProgrammierenStarten\ProgrammierenStarten\1.HalloWelt.csproj", "{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HalloWelt", "ProgrammierenStarten\ProgrammierenStarten\1.HalloWelt.csproj", "{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.VariablenTutorial", "..\..\VirtualBox VMs\Gemeinsamer-Ordner\CSharp-alt-master\ProgrammierenStarten\VariablenTutorial\2.VariablenTutorial.csproj", "{1CC3431F-5157-41DB-8DF1-6135CB6D0276}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.VariablenTutorial", "ProgrammierenStarten\VariablenTutorial\2.VariablenTutorial.csproj", "{1CC3431F-5157-41DB-8DF1-6135CB6D0276}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.MathematischeOperatoren", "..\..\VirtualBox VMs\Gemeinsamer-Ordner\CSharp-alt-master\ProgrammierenStarten\MathematischeOperatoren\3.MathematischeOperatoren.csproj", "{EEA81E47-DA78-48EC-A55D-1C067AD7399E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.MathematischeOperatoren", "ProgrammierenStarten\MathematischeOperatoren\3.MathematischeOperatoren.csproj", "{EEA81E47-DA78-48EC-A55D-1C067AD7399E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Family_Organizer", "..\..\VirtualBox VMs\Gemeinsamer-Ordner\CSharp-alt-master\Family_Organizer\Family_Organizer\Family_Organizer.csproj", "{8A325792-0435-453D-AC3C-B928086246AA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zahlenraten", "..\..\VirtualBox VMs\Gemeinsamer-Ordner\CSharp-alt-master\CSharp-FirstTry\Zahlenraten.csproj", "{A191AA90-A56A-4E46-870F-B7DE4B83D9D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zahlenraten", "Zahlenraten\Zahlenraten.csproj", "{A191AA90-A56A-4E46-870F-B7DE4B83D9D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,14 +45,6 @@ Global
 		{EEA81E47-DA78-48EC-A55D-1C067AD7399E}.Debug|x86.Build.0 = Debug|x86
 		{EEA81E47-DA78-48EC-A55D-1C067AD7399E}.Release|x86.ActiveCfg = Release|x86
 		{EEA81E47-DA78-48EC-A55D-1C067AD7399E}.Release|x86.Build.0 = Release|x86
-		{8A325792-0435-453D-AC3C-B928086246AA}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{8A325792-0435-453D-AC3C-B928086246AA}.Debug|anycpu.Build.0 = Debug|anycpu
-		{8A325792-0435-453D-AC3C-B928086246AA}.Release|anycpu.ActiveCfg = Release|anycpu
-		{8A325792-0435-453D-AC3C-B928086246AA}.Release|anycpu.Build.0 = Release|anycpu
-		{8A325792-0435-453D-AC3C-B928086246AA}.Debug|x86.ActiveCfg = Debug|anycpu
-		{8A325792-0435-453D-AC3C-B928086246AA}.Debug|x86.Build.0 = Debug|anycpu
-		{8A325792-0435-453D-AC3C-B928086246AA}.Release|x86.ActiveCfg = Release|anycpu
-		{8A325792-0435-453D-AC3C-B928086246AA}.Release|x86.Build.0 = Release|anycpu
 		{A191AA90-A56A-4E46-870F-B7DE4B83D9D9}.Debug|anycpu.ActiveCfg = Debug|anycpu
 		{A191AA90-A56A-4E46-870F-B7DE4B83D9D9}.Debug|anycpu.Build.0 = Debug|anycpu
 		{A191AA90-A56A-4E46-870F-B7DE4B83D9D9}.Release|anycpu.ActiveCfg = Release|anycpu
@@ -71,8 +61,8 @@ Global
 		SolutionGuid = {B755C982-7C88-4BBA-9F2C-249D80580F05}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0} = {B7F53DF9-029D-4C82-B6B7-59DB89D6E8F7}
-		{1CC3431F-5157-41DB-8DF1-6135CB6D0276} = {B7F53DF9-029D-4C82-B6B7-59DB89D6E8F7}
-		{EEA81E47-DA78-48EC-A55D-1C067AD7399E} = {B7F53DF9-029D-4C82-B6B7-59DB89D6E8F7}
+		{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
+		{1CC3431F-5157-41DB-8DF1-6135CB6D0276} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
+		{EEA81E47-DA78-48EC-A55D-1C067AD7399E} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
 	EndGlobalSection
 EndGlobal
