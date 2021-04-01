@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.808.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgrammierenStarten", "ProgrammierenStarten", "{CD9939EF-A377-4A40-8577-1874C641EB1E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgrammierenStarten_Crashkurs", "ProgrammierenStarten_Crashkurs", "{CD9939EF-A377-4A40-8577-1874C641EB1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HalloWelt", "ProgrammierenStarten\ProgrammierenStarten\01.HalloWelt.csproj", "{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0}"
 EndProject
@@ -50,6 +50,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.StatischeKlassen", "ProgrammierenStarten\19.StatischeKlassen\19.StatischeKlassen.csproj", "{FCDA6890-04CD-4EC6-A5F2-FBE3B203ADBB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Vererbung", "ProgrammierenStarten\20.Vererbung\20.Vererbung.csproj", "{0920EA98-E720-4C67-BB4A-8301D9608C63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgrammierenStarten_Tutorial", "ProgrammierenStarten_Tutorial", "{836BA8CA-4756-41EB-BB78-C8EB04F7F219}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgrammierenStarten_WPF", "ProgrammierenStarten_WPF", "{B1F5693B-FBD9-4FB2-8D59-61DAA4AE2A64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Morpheus_Tutorial", "Morpheus_Tutorial", "{7A03C4C8-7507-4C4D-A3EC-AE9D439045C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truppenrechner_Konsole", "Truppenrechner\Truppenrechner_Konsole\Truppenrechner_Konsole.csproj", "{767462F5-3A12-462A-89E6-5E89A9E688DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vokabeltrainer", "Vokabeltrainer\Vokabeltrainer.csproj", "{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -235,6 +245,22 @@ Global
 		{0920EA98-E720-4C67-BB4A-8301D9608C63}.Debug|x86.Build.0 = Debug|anycpu
 		{0920EA98-E720-4C67-BB4A-8301D9608C63}.Release|x86.ActiveCfg = Release|anycpu
 		{0920EA98-E720-4C67-BB4A-8301D9608C63}.Release|x86.Build.0 = Release|anycpu
+		{767462F5-3A12-462A-89E6-5E89A9E688DE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{767462F5-3A12-462A-89E6-5E89A9E688DE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{767462F5-3A12-462A-89E6-5E89A9E688DE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{767462F5-3A12-462A-89E6-5E89A9E688DE}.Release|anycpu.Build.0 = Release|anycpu
+		{767462F5-3A12-462A-89E6-5E89A9E688DE}.Debug|x86.ActiveCfg = Debug|anycpu
+		{767462F5-3A12-462A-89E6-5E89A9E688DE}.Debug|x86.Build.0 = Debug|anycpu
+		{767462F5-3A12-462A-89E6-5E89A9E688DE}.Release|x86.ActiveCfg = Release|anycpu
+		{767462F5-3A12-462A-89E6-5E89A9E688DE}.Release|x86.Build.0 = Release|anycpu
+		{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}.Release|anycpu.Build.0 = Release|anycpu
+		{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}.Debug|x86.ActiveCfg = Debug|anycpu
+		{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}.Debug|x86.Build.0 = Debug|anycpu
+		{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}.Release|x86.ActiveCfg = Release|anycpu
+		{79B39ED0-E36D-4659-8CD7-9DFC3301B0EA}.Release|x86.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -254,7 +280,6 @@ Global
 		{9B094623-3ABC-49BB-B305-3B54499B11DC} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
 		{38EDF14B-52AC-467B-B2F6-1FF8D002FA81} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
 		{E3FB2D4D-E9ED-4A34-8AEF-BF48124C6899} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
-		{4F98D876-D79E-47FF-AF7B-9BFB2CC3B4C6} = {DE5267A1-AD3D-4A02-BAAC-32C47F435F54}
 		{03B9D16E-2C08-4BAC-B261-F5A38738DF84} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
 		{E1D1D54D-0947-4010-9E09-2A5D29726097} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
 		{90FE52A3-BAC6-435B-8756-1941DCDF0F32} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
@@ -263,5 +288,7 @@ Global
 		{68CECF04-FA18-48EC-A27F-4682B9C48415} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
 		{FCDA6890-04CD-4EC6-A5F2-FBE3B203ADBB} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
 		{0920EA98-E720-4C67-BB4A-8301D9608C63} = {CD9939EF-A377-4A40-8577-1874C641EB1E}
+		{767462F5-3A12-462A-89E6-5E89A9E688DE} = {DE5267A1-AD3D-4A02-BAAC-32C47F435F54}
+		{4F98D876-D79E-47FF-AF7B-9BFB2CC3B4C6} = {DE5267A1-AD3D-4A02-BAAC-32C47F435F54}
 	EndGlobalSection
 EndGlobal
